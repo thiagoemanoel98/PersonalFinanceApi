@@ -1,0 +1,10 @@
+# .NET build artifacts
+[Bb]in/
+[Oo]bj/
+
+# IDE-specific user settings
+.idea/
+.vs/
+*.user
+*.suo
+*.DotSettings.user
